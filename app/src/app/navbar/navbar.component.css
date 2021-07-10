@@ -1,0 +1,27 @@
+.navbar{
+    background-color: #ffffff;
+    padding: 10px;
+    font-family: 'Poppins';
+}
+
+.navbar-toggler { 
+    border-color: #ffffff;
+    color: #ffffff;
+ }
+.navbar-light .navbar-nav .nav-link{
+    color: #212F3C;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color:#F1C40F ;
+}
+.logo{
+     width:16rem;
+    padding-left: 35px;
+    height: 4rem;
+}
+.navbar-light .navbar-nav .active{
+    color:#F1C40F ; 
+}
